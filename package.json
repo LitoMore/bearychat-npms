@@ -1,0 +1,28 @@
+{
+  "name": "bearychat-npms",
+  "version": "1.0.0",
+  "description": "BearyChat Outgoing bot to search for packages with npms.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitoMore/bearychat-npms.git"
+  },
+  "author": "LitoMore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LitoMore/bearychat-npms/issues"
+  },
+  "homepage": "https://github.com/LitoMore/bearychat-npms#readme",
+  "dependencies": {
+    "date-format": "^1.1.0",
+    "got": "^7.1.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
